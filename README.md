@@ -1,3 +1,4 @@
 # The Last
 The Last - mobile casual game
-![Game_1080p_28 02 2021_23-27-04](https://user-images.githubusercontent.com/70921648/109533935-72e8c180-7ac3-11eb-9cc3-78df92f0f665.png)
+![Game_1080p_24 03 2021_19-05-13](https://user-images.githubusercontent.com/70921648/112353135-1fd5e900-8cd4-11eb-863c-5ac81efa4874.jpg)
+
